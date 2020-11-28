@@ -18,7 +18,6 @@ Ensure you add a complete copy to your drive and start executing, since the fina
 ```sh
 final
 ├── Copy_of_EDA.ipynb
-├── Copy_of_general_report
 ├── data
 │   ├── sampled_US_accidents.csv
 │   ├── US_accidents1.csv
@@ -31,6 +30,7 @@ final
 │   ├── dtc_gini.model
 │   └── rfc.model
 ├── plug_and_play.ipynb
-├── reports
-└── stage1-48_Goal_Diggers_PES1201802018_PES1201800157_PES1201802000
+└── reports
+    ├── Copy_of_general_report
+    └── stage1-48_Goal_Diggers_PES1201802018_PES1201800157_PES1201802000
 ```
